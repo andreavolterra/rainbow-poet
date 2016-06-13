@@ -1,0 +1,7 @@
+The rainbow
+
+pink
+red
+blue
+
+end

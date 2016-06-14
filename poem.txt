@@ -6,5 +6,6 @@ blue
 green
 yellow
 magenta
+white
 
 end

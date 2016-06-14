@@ -6,6 +6,5 @@ blue
 green
 yellow
 magenta
-ponies
 
 end

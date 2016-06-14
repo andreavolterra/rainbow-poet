@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the ponies
 
 pink
 red
@@ -6,5 +6,6 @@ blue
 green
 yellow
 magenta
+ponies
 
 end

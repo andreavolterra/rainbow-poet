@@ -2,6 +2,7 @@ The rainbow and the ponies
 
 pink
 red
+mild-red
 blue
 green
 yellow
